@@ -1,5 +1,4 @@
 Ejercicio 12 : Cuando ya se tiene un proyecto creado.
 Archivo de texto 1 del segundo directorio.
-Cambio para probar github
-HOLAA
+Cambio para probar GitHub.
 
